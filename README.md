@@ -1,4 +1,4 @@
-# GroundTruth for Claude
+# Membase (SQLite)
 
 **Bootstrap platform for Claude/Codex-driven development projects, with the persistent knowledge database pattern at its core.**
 
@@ -10,7 +10,9 @@
 
 ## What This Is
 
-GroundTruth is the public product name for the platform previously developed under the Membase label. It is evolving from a **pattern/reference repository** into an **installable bootstrap platform** for projects that want the same operating model used to build Agent Red: durable knowledge storage, builder/opposition workflow configuration, bridge coordination, and eventually cloud delivery scaffolding.
+Membase (SQLite) is a legacy research project and the SQLite implementation of Membase. It preceded GT-KB and is not part of it. GT-KB has its own implementation, called simply Membase. The two are different implementations of Membase.
+
+It offers the operating model used to build Agent Red: durable knowledge storage, builder/opposition workflow configuration and bridge coordination.
 
 Today, this repo contains both:
 
@@ -19,12 +21,12 @@ Today, this repo contains both:
 
 ## Compatibility
 
-GroundTruth is currently a **branding rename with technical compatibility preserved**.
+This repository keeps its `membase` names:
 
 - the CLI remains `membase ...`
 - the project manifest remains `membase.project.json`
 - existing `MEMBASE_*` environment variables remain supported
-- historical files such as [`MEMBASE-4-CLAUDE.md`](MEMBASE-4-CLAUDE.md) remain in place during the transition
+- historical files such as [`MEMBASE-4-CLAUDE.md`](MEMBASE-4-CLAUDE.md) remain in place
 
 The persistent knowledge database remains the core of the platform. It replaces fragile markdown backlogs with a structured, append-only SQLite database where every change is versioned and every claim is machine-verifiable.
 
@@ -176,7 +178,7 @@ See [`QUICKSTART.md`](QUICKSTART.md) for both the platform quickstart and the ol
 
 ## Glossary of Key Terms
 
-These terms have specific meanings in the GroundTruth pattern. Understanding them is essential for working with the system.
+These terms have specific meanings in Membase (SQLite). Understanding them is essential for working with the system.
 
 | Term | Definition |
 |------|-----------|
@@ -200,7 +202,7 @@ See the [full glossary with examples](MEMBASE-4-CLAUDE.md#glossary) in the imple
 
 ## Benefits & Milestones
 
-GroundTruth was not designed upfront — it evolved through real project needs across 212 sessions. The milestones below trace how each capability was added in response to a specific problem.
+Membase (SQLite) was not designed upfront. It evolved through real project needs across 212 sessions. The milestones below trace how each capability was added in response to a specific problem.
 
 ### Evolution Timeline
 
