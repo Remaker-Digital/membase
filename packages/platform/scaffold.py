@@ -5,7 +5,7 @@ from pathlib import Path
 TEMPLATES: dict[str, str] = {
     "CLAUDE.md": """# CLAUDE.md
 
-This project was initialized by GroundTruth for a three-party operating model.
+This project was initialized by Membase (SQLite) for a three-party operating model.
 
 Compatibility note: the platform still uses the `membase` CLI and
 `membase.project.json` manifest during the transition period.
@@ -55,7 +55,7 @@ Thumbs.db
 """,
     "README.md": """# __PROJECT_NAME__
 
-Initialized by GroundTruth.
+Initialized by Membase (SQLite).
 
 Compatibility note: bootstrap commands still use the `membase` CLI during the
 transition period.

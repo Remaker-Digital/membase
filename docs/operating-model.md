@@ -1,6 +1,6 @@
-# GroundTruth Operating Model
+# Membase (SQLite) Operating Model
 
-GroundTruth is designed to bootstrap a three-party development system:
+Membase (SQLite) is designed to bootstrap a three-party development system:
 
 - Prime Builder: proposes and implements approved changes
 - Loyal Opposition: challenges proposals and completed work with evidence

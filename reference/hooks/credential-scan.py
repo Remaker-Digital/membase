@@ -17,7 +17,7 @@ Configuration:
   The reference patterns cover AWS, Azure, and GCP common credential formats.
 
 Part of the Membase for Claude reference implementation.
-See: https://github.com/mike-remakerdigital/membase-4-claude
+See: https://github.com/Remaker-Digital/membase
 """
 
 import json

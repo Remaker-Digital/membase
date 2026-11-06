@@ -1,6 +1,6 @@
-# GroundTruth Reference Implementation
+# Membase (SQLite) Reference Implementation
 
-A minimal but complete implementation of the GroundTruth pattern — 4 core tables, machine-verifiable assertions, session hooks, and a read-only web dashboard.
+A minimal but complete implementation of the Membase (SQLite) pattern: 4 core tables, machine-verifiable assertions, session hooks, and a read-only web dashboard.
 
 ## Quick Start
 

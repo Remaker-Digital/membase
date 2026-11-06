@@ -17,7 +17,7 @@ This hook is FAIL-CLOSED for recognized destructive patterns — if pattern
 matching raises an exception, the command is blocked with an error reason.
 
 Part of the Membase for Claude reference implementation.
-See: https://github.com/mike-remakerdigital/membase-4-claude
+See: https://github.com/Remaker-Digital/membase
 """
 
 import json
