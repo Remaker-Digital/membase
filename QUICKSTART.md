@@ -1,10 +1,10 @@
-# GroundTruth Quickstart Guide
+# Membase (SQLite) Quickstart Guide
 
 This quickstart starts with the installable platform path and keeps the older
 reference implementation path as a fallback.
 
-GroundTruth is the public product name. During the transition, the CLI remains
-`membase` and the manifest remains `membase.project.json`.
+Membase (SQLite) is a legacy research project and the SQLite implementation of
+Membase. The CLI is `membase` and the manifest is `membase.project.json`.
 
 Get a working knowledge database in under 5 minutes.
 
@@ -66,7 +66,7 @@ implementation directly.
 ### 1. Set Up the Database
 
 ```bash
-cd groundtruth
+cd membase
 python reference/seed.py
 ```
 

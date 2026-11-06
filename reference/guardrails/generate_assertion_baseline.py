@@ -15,7 +15,7 @@ Usage:
   python reference/guardrails/generate_assertion_baseline.py [--output PATH] [--tests-dir PATH]
 
 Part of the Membase for Claude reference implementation.
-See: https://github.com/mike-remakerdigital/membase-4-claude
+See: https://github.com/Remaker-Digital/membase
 """
 
 from __future__ import annotations

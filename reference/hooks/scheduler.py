@@ -11,7 +11,7 @@ Stdout: JSON {"systemMessage": "..."} or {}
 Exit:   Always 0
 
 Part of the Membase for Claude reference implementation.
-See: https://github.com/mike-remakerdigital/membase-4-claude
+See: https://github.com/Remaker-Digital/membase
 """
 
 import sys

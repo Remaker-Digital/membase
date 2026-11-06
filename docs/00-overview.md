@@ -1,6 +1,6 @@
-# GroundTruth v1 Overview
+# Membase (SQLite) v1 Overview
 
-GroundTruth is the public product name for the platform previously labeled Membase. It is transitioning from a pattern/reference repository into an installable bootstrap platform.
+Membase (SQLite) is a legacy research project and the SQLite implementation of Membase. It contains a pattern/reference repository and a first installable bootstrap platform.
 
 The v1 platform contract has four immediate goals:
 

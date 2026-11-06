@@ -15,7 +15,7 @@
 #   creating a layered defense against bypass.
 #
 # Part of the Membase for Claude reference implementation.
-# See: https://github.com/mike-remakerdigital/membase-4-claude
+# See: https://github.com/Remaker-Digital/membase
 
 set -e
 
